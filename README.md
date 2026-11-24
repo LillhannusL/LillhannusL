@@ -1,4 +1,4 @@
-# Hi, I'm Lisa 👋
+# Hi, I'm Lisa
 
 Frontend developer building clean, well-structured web apps with React and TypeScript. I like taking a project from a rough idea to something that actually works end-to-end. From UI and state management down to hooking up real APIs and handling the messy edge cases.
 
